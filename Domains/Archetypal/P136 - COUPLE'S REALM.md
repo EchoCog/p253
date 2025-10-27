@@ -1,12 +1,12 @@
-# Pattern 136: COUPLE'S REALM
+# Pattern 136: Couple'S Realm
 
 ## ARCHETYPAL ENVIRONMENT
 
-Couple's realm within the archetypal environment provides essential patterns and relationships that contribute to the overall coherence, vitality, and functioning of the system.
+Couple's Realm provide essential structural and functional elements that support the healthy development and maintenance of complex systems.
 
 ---
 
 *From the UIA 5-fold Pattern Language collection*  
 *Archetypal domain adaptation of Pattern 136*
 
-**Related Patterns**: [View all domains for this pattern](../../UIA/md/T136%20COUPLE'S%20REALM.md)
+**Related Patterns**: [View all domains for this pattern](../../UIA/md/T136 Couple's Realm.md)

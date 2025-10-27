@@ -1,12 +1,12 @@
-# Pattern 155: OLD AGE COTTAGE
+# Pattern 155: Old Age Cottage
 
 ## ARCHETYPAL ENVIRONMENT
 
-Old age cottage within the archetypal environment provides essential patterns and relationships that contribute to the overall coherence, vitality, and functioning of the system.
+Old Age Cottage provide essential structural and functional elements that support the healthy development and maintenance of complex systems.
 
 ---
 
 *From the UIA 5-fold Pattern Language collection*  
 *Archetypal domain adaptation of Pattern 155*
 
-**Related Patterns**: [View all domains for this pattern](../../UIA/md/T155%20OLD%20AGE%20COTTAGE.md)
+**Related Patterns**: [View all domains for this pattern](../../UIA/md/T155 Old Age Cottage.md)

@@ -1,12 +1,12 @@
-# Pattern 98: CIRCULATION REALMS
+# Pattern 098: Circulation Realms
 
 ## ARCHETYPAL ENVIRONMENT
 
-Circulation realms within the archetypal environment provides essential patterns and relationships that support the overall coherence and functioning of the system.
+Circulation Realms provide essential structural and functional elements that support the healthy development and maintenance of complex systems.
 
 ---
 
 *From the UIA 5-fold Pattern Language collection*  
-*Archetypal domain adaptation of Pattern 98*
+*Archetypal domain adaptation of Pattern 098*
 
-**Related Patterns**: [View all domains for this pattern](../../UIA/md/T98%20CIRCULATION REALMS.md)
+**Related Patterns**: [View all domains for this pattern](../../UIA/md/T098 Circulation Realms.md)

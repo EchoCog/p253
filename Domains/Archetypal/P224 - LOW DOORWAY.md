@@ -1,12 +1,12 @@
-# Pattern 224: LOW DOORWAY
+# Pattern 224: Low Doorway
 
 ## ARCHETYPAL ENVIRONMENT
 
-Low doorway within the archetypal environment provides transition points that control access and passage between different domains while facilitating appropriate connections.
+Low Doorway provide essential structural and functional elements that support the healthy development and maintenance of complex systems.
 
 ---
 
 *From the UIA 5-fold Pattern Language collection*  
 *Archetypal domain adaptation of Pattern 224*
 
-**Related Patterns**: [View all domains for this pattern](../../UIA/md/T224%20LOW%20DOORWAY.md)
+**Related Patterns**: [View all domains for this pattern](../../UIA/md/T224 Low Doorway.md)

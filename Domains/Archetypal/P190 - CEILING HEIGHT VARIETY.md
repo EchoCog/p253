@@ -1,12 +1,12 @@
-# Pattern 190: CEILING HEIGHT VARIETY
+# Pattern 190: Ceiling Height Variety
 
 ## ARCHETYPAL ENVIRONMENT
 
-Ceiling height variety within the archetypal environment provides essential patterns and relationships that contribute to the overall coherence, vitality, and functioning of the system.
+Ceiling Height Variety provide essential structural and functional elements that support the healthy development and maintenance of complex systems.
 
 ---
 
 *From the UIA 5-fold Pattern Language collection*  
 *Archetypal domain adaptation of Pattern 190*
 
-**Related Patterns**: [View all domains for this pattern](../../UIA/md/T190%20CEILING%20HEIGHT%20VARIETY.md)
+**Related Patterns**: [View all domains for this pattern](../../UIA/md/T190 Ceiling Height Variety.md)

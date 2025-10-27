@@ -1,12 +1,12 @@
-# Pattern 168: CONNECTION TO THE EARTH
+# Pattern 168: Connection To The Earth
 
 ## ARCHETYPAL ENVIRONMENT
 
-Connection to the earth within the archetypal environment provides essential patterns and relationships that contribute to the overall coherence, vitality, and functioning of the system.
+Connection To The Earth provide essential structural and functional elements that support the healthy development and maintenance of complex systems.
 
 ---
 
 *From the UIA 5-fold Pattern Language collection*  
 *Archetypal domain adaptation of Pattern 168*
 
-**Related Patterns**: [View all domains for this pattern](../../UIA/md/T168%20CONNECTION%20TO%20THE%20EARTH.md)
+**Related Patterns**: [View all domains for this pattern](../../UIA/md/T168 Connection To The Earth.md)

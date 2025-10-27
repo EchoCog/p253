@@ -1,12 +1,12 @@
-# Pattern 97: SHIELDED PARKING
+# Pattern 097: Shielded Parking
 
 ## ARCHETYPAL ENVIRONMENT
 
-Shielded parking within the archetypal environment provides essential patterns and relationships that support the overall coherence and functioning of the system.
+Shielded Parking provide essential structural and functional elements that support the healthy development and maintenance of complex systems.
 
 ---
 
 *From the UIA 5-fold Pattern Language collection*  
-*Archetypal domain adaptation of Pattern 97*
+*Archetypal domain adaptation of Pattern 097*
 
-**Related Patterns**: [View all domains for this pattern](../../UIA/md/T97%20SHIELDED PARKING.md)
+**Related Patterns**: [View all domains for this pattern](../../UIA/md/T097 Shielded Parking.md)

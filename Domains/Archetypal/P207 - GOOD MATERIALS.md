@@ -1,12 +1,12 @@
-# Pattern 207: GOOD MATERIALS
+# Pattern 207: Good Materials
 
 ## ARCHETYPAL ENVIRONMENT
 
-Good materials within the archetypal environment provides essential patterns and relationships that contribute to the overall coherence, vitality, and functioning of the system.
+Good Materials provide essential structural and functional elements that support the healthy development and maintenance of complex systems.
 
 ---
 
 *From the UIA 5-fold Pattern Language collection*  
 *Archetypal domain adaptation of Pattern 207*
 
-**Related Patterns**: [View all domains for this pattern](../../UIA/md/T207%20GOOD%20MATERIALS.md)
+**Related Patterns**: [View all domains for this pattern](../../UIA/md/T207 Good Materials.md)

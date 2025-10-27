@@ -1,12 +1,12 @@
-# Pattern 134: ZEN VIEW
+# Pattern 134: Zen View
 
 ## ARCHETYPAL ENVIRONMENT
 
-Zen view within the archetypal environment provides essential patterns and relationships that contribute to the overall coherence, vitality, and functioning of the system.
+Zen View provide essential structural and functional elements that support the healthy development and maintenance of complex systems.
 
 ---
 
 *From the UIA 5-fold Pattern Language collection*  
 *Archetypal domain adaptation of Pattern 134*
 
-**Related Patterns**: [View all domains for this pattern](../../UIA/md/T134%20ZEN%20VIEW.md)
+**Related Patterns**: [View all domains for this pattern](../../UIA/md/T134 Zen View.md)

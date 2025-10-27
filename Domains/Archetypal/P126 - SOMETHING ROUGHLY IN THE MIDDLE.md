@@ -1,12 +1,12 @@
-# Pattern 126: SOMETHING ROUGHLY IN THE MIDDLE
+# Pattern 126: Something Roughly In The Middle
 
 ## ARCHETYPAL ENVIRONMENT
 
-Something roughly in the middle within the archetypal environment provides essential patterns and relationships that contribute to the overall coherence, vitality, and functioning of the system.
+Something Roughly In The Middle provide essential structural and functional elements that support the healthy development and maintenance of complex systems.
 
 ---
 
 *From the UIA 5-fold Pattern Language collection*  
 *Archetypal domain adaptation of Pattern 126*
 
-**Related Patterns**: [View all domains for this pattern](../../UIA/md/T126%20SOMETHING%20ROUGHLY%20IN%20THE%20MIDDLE.md)
+**Related Patterns**: [View all domains for this pattern](../../UIA/md/T126 Something Roughly In The Middle.md)

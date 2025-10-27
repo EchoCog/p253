@@ -1,12 +1,12 @@
-# Pattern 148: SMALL WORK GROUPS
+# Pattern 148: Small Work Groups
 
 ## ARCHETYPAL ENVIRONMENT
 
-Small work groups within the archetypal environment provides essential patterns and relationships that contribute to the overall coherence, vitality, and functioning of the system.
+Small Work Groups provide essential structural and functional elements that support the healthy development and maintenance of complex systems.
 
 ---
 
 *From the UIA 5-fold Pattern Language collection*  
 *Archetypal domain adaptation of Pattern 148*
 
-**Related Patterns**: [View all domains for this pattern](../../UIA/md/T148%20SMALL%20WORK%20GROUPS.md)
+**Related Patterns**: [View all domains for this pattern](../../UIA/md/T148 Small Work Groups.md)

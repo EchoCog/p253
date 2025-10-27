@@ -1,12 +1,12 @@
-# Pattern 225: FRAMES AS THICKENED EDGES
+# Pattern 225: Frames As Thickened Edges
 
 ## ARCHETYPAL ENVIRONMENT
 
-Frames as thickened edges within the archetypal environment provides essential patterns and relationships that contribute to the overall coherence, vitality, and functioning of the system.
+Frames As Thickened Edges provide essential structural and functional elements that support the healthy development and maintenance of complex systems.
 
 ---
 
 *From the UIA 5-fold Pattern Language collection*  
 *Archetypal domain adaptation of Pattern 225*
 
-**Related Patterns**: [View all domains for this pattern](../../UIA/md/T225%20FRAMES%20AS%20THICKENED%20EDGES.md)
+**Related Patterns**: [View all domains for this pattern](../../UIA/md/T225 Frames As Thickened Edges.md)

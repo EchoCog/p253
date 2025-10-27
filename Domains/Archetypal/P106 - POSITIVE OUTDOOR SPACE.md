@@ -1,12 +1,12 @@
-# Pattern 106: POSITIVE OUTDOOR SPACE
+# Pattern 106: Positive Outdoor Space
 
 ## ARCHETYPAL ENVIRONMENT
 
-Positive outdoor space within the archetypal environment provides transition points that control access and passage between different domains while facilitating appropriate connections.
+Positive Outdoor Space provide essential structural and functional elements that support the healthy development and maintenance of complex systems.
 
 ---
 
 *From the UIA 5-fold Pattern Language collection*  
 *Archetypal domain adaptation of Pattern 106*
 
-**Related Patterns**: [View all domains for this pattern](../../UIA/md/T106%20POSITIVE%20OUTDOOR%20SPACE.md)
+**Related Patterns**: [View all domains for this pattern](../../UIA/md/T106 Positive Outdoor Space.md)

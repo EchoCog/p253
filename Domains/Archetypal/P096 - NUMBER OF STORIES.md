@@ -1,12 +1,12 @@
-# Pattern 96: NUMBER OF STORIES
+# Pattern 096: Number Of Stories
 
 ## ARCHETYPAL ENVIRONMENT
 
-Number of stories within the archetypal environment provides essential patterns and relationships that support the overall coherence and functioning of the system.
+Number Of Stories provide essential structural and functional elements that support the healthy development and maintenance of complex systems.
 
 ---
 
 *From the UIA 5-fold Pattern Language collection*  
-*Archetypal domain adaptation of Pattern 96*
+*Archetypal domain adaptation of Pattern 096*
 
-**Related Patterns**: [View all domains for this pattern](../../UIA/md/T96%20NUMBER OF STORIES.md)
+**Related Patterns**: [View all domains for this pattern](../../UIA/md/T096 Number Of Stories.md)

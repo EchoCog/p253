@@ -1,12 +1,12 @@
-# Pattern 236: WINDOWS WHICH OPEN WIDE
+# Pattern 236: Windows Which Open Wide
 
 ## ARCHETYPAL ENVIRONMENT
 
-Windows which open wide within the archetypal environment provides transparent connections that enable perception, communication, and flow between different domains while maintaining appropriate boundaries.
+Windows Which Open Wide provide essential structural and functional elements that support the healthy development and maintenance of complex systems.
 
 ---
 
 *From the UIA 5-fold Pattern Language collection*  
 *Archetypal domain adaptation of Pattern 236*
 
-**Related Patterns**: [View all domains for this pattern](../../UIA/md/T236%20WINDOWS%20WHICH%20OPEN%20WIDE.md)
+**Related Patterns**: [View all domains for this pattern](../../UIA/md/T236 Windows Which Open Wide.md)
